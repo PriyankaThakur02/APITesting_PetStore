@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15313" started-at="2021-01-30T13:09:42 IST" finished-at="2021-01-30T13:09:57 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15313" started-at="2021-01-30T13:09:42 IST" finished-at="2021-01-30T13:09:57 IST">
+      <class name="petstore_testCases.TC_PetStoreAPI">
+        <test-method status="PASS" signature="test_getAvailablePets()[pri:1, instance:petstore_testCases.TC_PetStoreAPI@1f28c152]" name="test_getAvailablePets" duration-ms="4213" started-at="2021-01-30T13:09:42 IST" finished-at="2021-01-30T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getAvailablePets -->
+        <test-method status="PASS" signature="test_postNewPet()[pri:3, instance:petstore_testCases.TC_PetStoreAPI@1f28c152]" name="test_postNewPet" duration-ms="5856" started-at="2021-01-30T13:09:46 IST" finished-at="2021-01-30T13:09:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_postNewPet -->
+        <test-method status="PASS" signature="test_putStatusUpdate()[pri:4, instance:petstore_testCases.TC_PetStoreAPI@1f28c152]" name="test_putStatusUpdate" duration-ms="1507" started-at="2021-01-30T13:09:52 IST" finished-at="2021-01-30T13:09:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_putStatusUpdate -->
+        <test-method status="PASS" signature="test_deletePet()[pri:5, instance:petstore_testCases.TC_PetStoreAPI@1f28c152]" name="test_deletePet" duration-ms="3695" started-at="2021-01-30T13:09:54 IST" finished-at="2021-01-30T13:09:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deletePet -->
+      </class> <!-- petstore_testCases.TC_PetStoreAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

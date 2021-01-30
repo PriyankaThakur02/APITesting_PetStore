@@ -1,0 +1,18 @@
+{
+  "id": 123,
+  "category": {
+    "id": 123,
+    "name": "rabbit"
+  },
+  "name": "Rose",
+  "photoUrls": [
+    "abc"
+  ],
+  "tags": [
+    {
+      "id": 1233,
+      "name": "cute"
+    }
+  ],
+  "status": "sold"
+}
